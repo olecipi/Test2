@@ -1,0 +1,42 @@
+.pirmasBlokas{
+    display: inline-block;
+background-color: darkblue;
+color: darkgray;
+}
+
+.antrasBlokas{
+    display: inline-block;
+    background-color: khaki;
+}
+
+div{
+    padding-top:15px;
+    padding-bottom: 15px;
+
+
+}
+.raudonas{
+    background-color: red;
+    height: 10px;
+    margin-bottom: 15px;
+    text-align: center
+    ;
+}
+
+.neraudonas{
+    background-color: salmon;
+}
+
+h1{
+    background-color: white;
+}
+
+.box2{
+    background-color: red;
+   padding: 5px;
+}
+
+.box1{
+    background-color: yellow;
+    padding: 15px;
+}
